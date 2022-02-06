@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carboncalculator/static/css/main.07d6b97d.css",
+    "main.js": "/carboncalculator/static/js/main.fb2aa1c0.js",
+    "static/js/787.3816f30c.chunk.js": "/carboncalculator/static/js/787.3816f30c.chunk.js",
+    "index.html": "/carboncalculator/index.html",
+    "main.07d6b97d.css.map": "/carboncalculator/static/css/main.07d6b97d.css.map",
+    "main.fb2aa1c0.js.map": "/carboncalculator/static/js/main.fb2aa1c0.js.map",
+    "787.3816f30c.chunk.js.map": "/carboncalculator/static/js/787.3816f30c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d6b97d.css",
+    "static/js/main.fb2aa1c0.js"
+  ]
+}
